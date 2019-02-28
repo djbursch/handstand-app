@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-amplify": "^1.1.19",
+    "aws-amplify-react-native": "^2.1.7"
+  }
+}
